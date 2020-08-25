@@ -1,0 +1,13 @@
+/* Cabeçalho do site
+*********************************/
+ul.sociais {
+    list-style: none;
+}
+
+.sociais li {
+    margin-left: 10px;
+}
+
+/* Navegação
+*********************************/
+
